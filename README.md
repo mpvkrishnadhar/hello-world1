@@ -1,2 +1,3 @@
 # hello-world1
 new hello world application
+This is just the begining of my journey with GitHub...
